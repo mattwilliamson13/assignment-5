@@ -1,6 +1,7 @@
-# assignment-4
-This is the third assignment of the semester for HES 597. 
+# Repository for Assignment 5 Fall 2021
 
-## Learning objectives for this assignment are:
-- Introduce common raster operations using `terra`
-- Begin using functional programming for repetitive operations
+## Learning Objectives:
+
+* get comfortable filtering features and selecting fields
+* practice using mutate and summarise to create new fields
+* practice _join operations to develop dataframes for subsequent analysis
